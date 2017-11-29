@@ -1,0 +1,43 @@
+{
+  "name": "wjx-react-native-checkbox",
+  "version": "1.0.0",
+  "description": "A perfect checkbox solution for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TEST SUCCESS !\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jancee/wjx-react-native-checkbox.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Jancee",
+    "checkbox",
+    "ios",
+    "android"
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "4.5.0",
+    "eslint-plugin-react-app": "^1.0.2",
+    "husky": "0.14.3",
+    "lint-staged": "4.0.4",
+    "prettier": "1.6.1",
+    "react": ">=15.0.0"
+  },
+  "author": {
+    "name": "Jingxi Wang",
+    "email": "jancee.wang@qq.com",
+    "url": "http://blog.wjingxi.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jancee/wjx-react-native-checkbox/issues"
+  },
+  "homepage": "https://github.com/jancee/wjx-react-native-checkbox#readme"
+}
